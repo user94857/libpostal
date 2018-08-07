@@ -1,6 +1,6 @@
 allotment
 antenna|ant
-apartment|apt|ap|aprt|aptmnt
+apartment|ap|app|apt|appt|aprt|aptmnt|aprtmnt|apartm|apartmnt|apartme|apartmen|apart|aparte|apparte|appart
 barbecue|bbq|barbeque
 berth|brth
 boatshed|btsd
@@ -22,7 +22,7 @@ farm|frm
 flat|flt
 garage|grge
 hall
-hangar|hngr
+hangar|hngr|hanger|hangr
 house|hse|hous|hs|ho
 kiosk|ksk
 lease|lse
@@ -60,7 +60,7 @@ tower|twr
 townhouse|tnhs|twnhs|tnhse|twnhse
 trailer|trlr
 trailer park lot|trlr park lot|trlr pk lot
-unit|un|unt|u
+unit|un|unt|u|unite
 van
 vault|vlt
 villa|vlla|vl
